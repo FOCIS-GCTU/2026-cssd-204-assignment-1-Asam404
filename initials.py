@@ -4,7 +4,7 @@
 #
 # Name: Yaw Asamoah Nyante
 # STUDENT ID: 2425402611
-# Email:
+# Email: 2425402611@live.gctu.edu.gh
 # Grader: Augustus Buckman
 #
 # On my honor, Yaw Asamoah Nyante, this programming assignment is my own work
